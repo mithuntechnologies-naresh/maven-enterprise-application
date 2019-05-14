@@ -22,7 +22,7 @@
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>Naresh Technologies Snapshot Nexus Repository </name>
 	      <url>http://ec2-13-232-210-127.ap-south-1.compute.amazonaws.com:8081/repository/maven-snap/</url>
 	    </snapshotRepository>
 	</distributionManagement>
