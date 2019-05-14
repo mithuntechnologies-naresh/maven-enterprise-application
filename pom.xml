@@ -17,7 +17,7 @@
   <distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <name>Mavilla Technologies Releases Nexus Repository</name>
 	      <url>http://ec2-13-232-210-127.ap-south-1.compute.amazonaws.com:8081/repository/maven-release/</url>
 	    </repository>
 	    <snapshotRepository>
