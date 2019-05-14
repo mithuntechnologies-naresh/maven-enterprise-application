@@ -11,6 +11,9 @@
     <module>MavenEnterpriseApp-ear</module>
     <module>MavenEnterpriseApp-web</module>
   </modules>
+	<project>
+		<sonar.host.url>http://ec2-35-154-2-125.ap-south-1.compute.amazonaws.com:9000/</sonar.host.url>
+	</project>
   <distributionManagement>
 	    <repository>
 	      <id>nexus</id>
