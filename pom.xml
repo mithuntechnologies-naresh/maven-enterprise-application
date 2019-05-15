@@ -12,18 +12,18 @@
     <module>MavenEnterpriseApp-web</module>
   </modules>
 	<properties>
-		<sonar.host.url>http://ec2-35-154-2-125.ap-south-1.compute.amazonaws.com:9000/</sonar.host.url>
+		<sonar.host.url>http://ec2-13-232-38-237.ap-south-1.compute.amazonaws.com:9000/</sonar.host.url>
 	</properties>
   <distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mavilla Technologies Releases Nexus Repository</name>
-	      <url>http://ec2-13-232-210-127.ap-south-1.compute.amazonaws.com:8081/repository/maven-release/</url>
+	      <url>http://ec2-13-232-200-6.ap-south-1.compute.amazonaws.com:8081/repository/maven-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Naresh Technologies Snapshot Nexus Repository </name>
-	      <url>http://ec2-13-232-210-127.ap-south-1.compute.amazonaws.com:8081/repository/maven-snap/</url>
+	      <url>http://ec2-13-232-200-6.ap-south-1.compute.amazonaws.com:8081/repository/maven-snap/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 </project>
